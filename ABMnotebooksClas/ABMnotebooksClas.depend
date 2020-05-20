@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1589315904 source:c:\users\ale\desktop\abmnotebooksclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589313115 c:\users\ale\desktop\abmnotebooksclas\utn.h
+
+1589379928 source:c:\users\ale\desktop\abmnotebooksclas\utnnotebook.c
+	"UTNnotebook.h"
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+
+1589380288 source:c:\users\ale\desktop\abmnotebooksclas\utntrabajoyservicio.c
+	"UTN.h"
+	"UTNtrabajoyservicio.h"
+	<stdio.h>
+	<stdlib.h>
+
+1589379990 c:\users\ale\desktop\abmnotebooksclas\utnnotebook.h
+
+1589381290 source:c:\users\ale\desktop\abmnotebooksclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"UTNnotebook.h"
+	"UTNtrabajoyservicio.h"
+
+1589381328 c:\users\ale\desktop\abmnotebooksclas\utntrabajoyservicio.h
+	"UTNnotebook.h"
+
+1589315904 source:c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1589313115 c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utn.h
+
+1589985815 source:c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utntrabajoyservicio.c
+	"UTN.h"
+	"UTNtrabajoyservicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589985012 c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utntrabajoyservicio.h
+	"UTNnotebook.h"
+
+1589979066 c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utnnotebook.h
+
+1589984349 source:c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\utnnotebook.c
+	"UTNnotebook.h"
+	"UTNtrabajoyservicio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"UTN.h"
+
+1589985815 source:c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+	"UTNnotebook.h"
+	"UTNtrabajoyservicio.h"
+
+1589978941 source:c:\users\ale\desktop\agus utn\programacion1\claspplab1\abmnotebooksclas\informesnotebook.c
+
